@@ -18,7 +18,7 @@
           </div>
           <div v-else>
             <p>Node.js专业中文社区</p>
-            <router-link to='/login'>登录</router-link>
+            <router-link to='/login'>登录1111</router-link>
           </div>
         </template>
       </Panel>
